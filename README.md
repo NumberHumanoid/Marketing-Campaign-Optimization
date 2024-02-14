@@ -4,20 +4,20 @@
 
 # Introduction
 ## Background Context: 
-- (Insurance Marketing Optimization): This data set contains 2977 rows of insured data, where the Insurance charges are given against the following attributes of the insured:
-  - Client_ID: A unique identifier for each client in the dataset
-  - Client_Type: Represents the type of hospital account (big, medium, small facilities).
-  - Number_of_Customers: The count of customers associated with each client.
-  - Monthly_Target:The sales target set for each month, reflecting the goals set for sales teams or marketing campaigns.
-  - Zip_Code: Geographic identifier used to analyze regional differences in marketing strategy
-  - Calendar_Date: The date associated with each data entry, allowing for time-series analysis or tracking impact
-  - Amount_Collected: The total amount of sales collected
-  - Unit_Sold: The number of units sold
-  - Campaign (Email): Marketing Campaign Category via Email
-  - Campaign (Flyer): Marketing Campaign Category via Flyers
-  - Campaign (Phone): Marketing Campaign Category via Phone
-  - Sales Contact (1-5): The different types of sales contacts or interactions tracking sales intensity.
-  - Number of Competition: the level of competition (e.g., high, low) each client faces, which could significantly influence the effectiveness of different marketing strategies.
+- **(Raw-Campaign-Data)**: contains 2977 rows of insured data, where the Insurance charges are given against the following attributes of the insured:
+  - *Client_ID*: A unique identifier for each client in the dataset
+  - *Client_Type*: Represents the type of hospital account (big, medium, small facilities).
+  - *Number_of_Customers*: The count of customers associated with each client.
+  - *Monthly_Target*: The sales target set for each month, reflecting the goals set for sales teams or marketing campaigns.
+  - *Zip_Code*: Geographic identifier used to analyze regional differences in marketing strategy
+  - *Calendar_Date*: The date associated with each data entry, allowing for time-series analysis or tracking impact
+  - *Amount_Collected*: The total amount of sales collected
+  - *Unit_Sold*: The number of units sold
+  - *Campaign (Email)*: Marketing Campaign Category via Email
+  - *Campaign (Flyer)*: Marketing Campaign Category via Flyers
+  - *Campaign (Phone)*: Marketing Campaign Category via Phone
+  - *Sales Contact (1-5)*: The different types of sales contacts or interactions tracking sales intensity.
+  - *Number of Competition*: The level of competition (e.g., high, low) each client faces, which could significantly influence the effectiveness of different marketing strategies.
  
 ## Business Objective:
 - The project deals with analyzing marketing strategies for hospitals, categorized into small, medium, large, and private facilities. The goal is to identify which marketing tactics (e.g., email, flyers, phone calls, direct sales visits) are most effective for each type of hospital account. 
