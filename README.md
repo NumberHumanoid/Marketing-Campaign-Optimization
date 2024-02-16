@@ -27,7 +27,7 @@
   - Are the same marketing strategies valid for all the different client types?
 
 
-### ✨ [Full Data Analysis Here]() ✨
+### ✨ [Full Data Analysis Here](https://rpubs.com/numberhumanoid/1149523) ✨
 
 ## Data Source
 - [Data Source](Assets/Raw-Campaign-Data.csv)
